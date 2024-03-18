@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ant-garz/ant-garz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**About me**
+
+Having both tested software as a QA Analyst and developed software as a Full Stack Developer, I am well versed in agile methodologies and the software development life cycle. Outside of work, I am passionate about music, and technologies I have been introduced to as a student of computer science. I enjoy programming as a hobby for various projects using Arduino boards and Raspberry Pi's.
+
+**Professional Experience** 
+- Software Development
+- Software Quality Assurance
