@@ -1,7 +1,9 @@
 # Hello
 ## About me
 
-With professional experience as both a Software QA Analyst and a Software Developer, I bring hands-on knowledge of agile methodologies and the software development life cycle. Outside of work, my passion for technology continues to drive me to learn more. I enjoy working on personal projects with Arduino micro controllers and Raspberry Pi computers, which helps me stay enthusiastic about my field and current with emerging technologies.
+Software developer with full-stack web development experience. Strong in JavaScript and PHP, with additional
+experience in Python, HTML, and CSS. Background in software testing and development, with a focus on building
+applications in agile environments. Currently pursuing an associate’s degree in Cybersecurity.
 
 ## Professional Experience
 - Software Development
